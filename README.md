@@ -22,6 +22,12 @@ This project consists of three main stages:
 - Predicted frames from the model
 - Occlusion interval annotations
 
+### Scene Overview
+
+This is an example of a simulated occlusion scenario generated using PyBullet:
+
+![Occlusion Scene](images/scene.gif)
+
 ### Ground Truth vs. Prediction (PredRNN)
 
 | Ground Truth                        | Model Prediction                      |
