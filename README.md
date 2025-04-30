@@ -26,7 +26,7 @@ This project consists of three main stages:
 
 | Ground Truth                        | Model Prediction                      |
 |------------------------------------|---------------------------------------|
-| ![GT](images/predrnn-gt.png)       | ![Prediction](images/predrnn-prediction.png) |
+| ![GT](images/predrnn-gt.png)       | ![Prediction](images/predrnn-pred.png) |
 
 ## Requirements
 
