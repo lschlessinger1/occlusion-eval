@@ -22,7 +22,7 @@ This project consists of three main stages:
 - Predicted frames from the model
 - Occlusion interval annotations
 
-### Ground Truth vs. Prediction
+### Ground Truth vs. Prediction (PredRNN)
 
 | Ground Truth                        | Model Prediction                      |
 |------------------------------------|---------------------------------------|
