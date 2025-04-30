@@ -22,6 +22,12 @@ This project consists of three main stages:
 - Predicted frames from the model
 - Occlusion interval annotations
 
+### Ground Truth vs. Prediction
+
+| Ground Truth                        | Model Prediction                      |
+|------------------------------------|---------------------------------------|
+| ![GT](images/predrnn-gt.png)       | ![Prediction](images/predrnn-prediction.png) |
+
 ## Requirements
 
 - Python 3.8+
